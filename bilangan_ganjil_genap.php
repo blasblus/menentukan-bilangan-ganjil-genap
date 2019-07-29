@@ -11,7 +11,6 @@ while ($angka <= 20) {
 }
 
 //menggunakan metode for
-<?php 
 for ($angka = 1; $angka <= 20; $angka++) {
     if ($angka % 2 == 1) {
         echo $angka . ' Adalah bilangan ganjil </br>';
@@ -19,5 +18,4 @@ for ($angka = 1; $angka <= 20; $angka++) {
         echo $angka . ' Adalah bilangan genap </br>';
     }
 }
-?>
 ?>
